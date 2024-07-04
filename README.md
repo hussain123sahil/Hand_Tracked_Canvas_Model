@@ -1,4 +1,4 @@
-# Air Canvas Hand Tracking Project
+# Hand_Tracked_Canvas_Model
 
 Have you ever wanted to draw your ideas in mid-air with just the movement of your finger? This project introduces an Air Canvas that allows you to sketch anything by moving your hands and tracking the landmarks on your knuckles. It's a virtual drawing tool powered by the combination of OpenCV and MediaPipe, enabling you to draw using hand gestures.
 
