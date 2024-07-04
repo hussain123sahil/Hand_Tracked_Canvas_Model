@@ -35,4 +35,4 @@ Have you ever wanted to draw your ideas in mid-air with just the movement of you
 ### Project Images:
 
 ![Drawing in Action with hand](./Demo-img.png)
-![Hand Tracking Visualization in white screen](E:\Air_canvas_model\Hand_Tracked_Canvas_Model\paint-img.png)
+![Hand Tracking Visualization in white screen](./paint-img.png)
